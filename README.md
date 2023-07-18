@@ -8,6 +8,7 @@ a) Exploración Inicial : analizar cada variable, considerando los siguientes as
 ● Variables Cuantitativas: calcular medidas de resumen: media, mediana,moda, etc  
 ● Variables Cualitativas: reportar los posibles valores que toman y cuán
 frecuentemente lo hacen.
+
 ● Determinar si existen variables irrelevantes para el análisis
 ● Realizar un análisis gráfico de las distribuciones de las variables
 ● Analizar las correlaciones existentes entre las variables.
