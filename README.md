@@ -2,6 +2,7 @@
 En este tp, lo que basicamente nos pidieron, es realizar analisis exploratorio y procesamiento de datos de un conjunto que reprensentaban los datos de hoteles. Se le llama a este conjunto de datos, "dataset". Para trabajar en este tp (Y en los futuros tambien) nos dieron dos datasets: Uno de entrenamiento y otro de prueba. El porque de este motivo, va quedar mas claro en los futuros tps de dicha materia que se subirán.
 
 Los puntos pedidos en este tp fueron:
+
 a) Exploración Inicial : analizar cada variable, considerando los siguientes aspectos
 
 ● Tipo de variable
