@@ -35,3 +35,6 @@ c) Datos Faltantes : analizar la presencia de datos faltantes en el dataset
 
   ● En caso de realizar imputaciones comparar las distribuciones de cada atributo
   reparado con la distribución anterior a la imputación de los datos faltantes.
+
+
+Con el archivo python del código también viene un informe de dos páginas en formato pdf. 
