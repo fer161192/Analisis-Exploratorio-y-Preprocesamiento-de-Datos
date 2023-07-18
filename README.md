@@ -28,7 +28,7 @@ cualquier otro gráfico adicional que se considere útil justificando su utiliza
 c) Datos Faltantes : analizar la presencia de datos faltantes en el dataset
   
   ● Realizar análisis de datos faltantes a nivel de columna. Graficar para cada variable
-  el porcentaje de datos faltantes con respecto al total del dataset
+  el porcentaje de datos faltantes con respecto al total del dataset.
 
   ● Revisar los datos faltantes o mal ingresados y tomar una decisión sobre estos:
   reemplazo de valores, eliminación de registros incompletos, etc.
