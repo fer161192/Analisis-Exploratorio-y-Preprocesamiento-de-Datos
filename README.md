@@ -11,10 +11,12 @@ a) Exploración Inicial : analizar cada variable, considerando los siguientes as
   ● Realizar un análisis gráfico de las distribuciones de las variables
   ● Analizar las correlaciones existentes entre las variables.
   ● Analizar la relación de las variables con el target
+
 b) Visualización de los datos: en esta sección se espera que puedan realizar una primera
 aproximación a los datos apoyándose en visualizaciones, por ejemplo: gráficos de
 dispersión entre variables, histogramas, heatmaps, exploración de las columnas y
 cualquier otro gráfico adicional que se considere útil justificando su utilización.
+
 c) Datos Faltantes : analizar la presencia de datos faltantes en el dataset
   ● Realizar análisis de datos faltantes a nivel de columna. Graficar para cada variable
   el porcentaje de datos faltantes con respecto al total del dataset
