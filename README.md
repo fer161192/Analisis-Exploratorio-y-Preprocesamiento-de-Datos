@@ -3,7 +3,6 @@ En este tp, lo que basicamente nos pidieron, es realizar analisis exploratorio y
 
 Los puntos pedidos en este tp fueron:
 a) Exploración Inicial : analizar cada variable, considerando los siguientes aspectos
-  
 ● Tipo de variable  
 ● Variables Cuantitativas: calcular medidas de resumen: media, mediana,moda, etc
   ● Variables Cualitativas: reportar los posibles valores que toman y cuán
