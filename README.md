@@ -5,20 +5,20 @@ Los puntos pedidos en este tp fueron:
 
 a) Exploración Inicial : analizar cada variable, considerando los siguientes aspectos
 
-● Tipo de variable
+  ● Tipo de variable
   
-● Variables Cuantitativas: calcular medidas de resumen: media, mediana,moda, etc  
+  ● Variables Cuantitativas: calcular medidas de resumen: media, mediana,moda, etc  
 
-● Variables Cualitativas: reportar los posibles valores que toman y cuán
-frecuentemente lo hacen.
+  ● Variables Cualitativas: reportar los posibles valores que toman y cuán
+  frecuentemente lo hacen.
 
-● Determinar si existen variables irrelevantes para el análisis
+  ● Determinar si existen variables irrelevantes para el análisis
 
-● Realizar un análisis gráfico de las distribuciones de las variables
+  ● Realizar un análisis gráfico de las distribuciones de las variables
 
-● Analizar las correlaciones existentes entre las variables.
+  ● Analizar las correlaciones existentes entre las variables.
 
-● Analizar la relación de las variables con el target
+  ● Analizar la relación de las variables con el target.
 
 b) Visualización de los datos: en esta sección se espera que puedan realizar una primera
 aproximación a los datos apoyándose en visualizaciones, por ejemplo: gráficos de
